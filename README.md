@@ -5,8 +5,8 @@
 These are the prompts, questionnaires and extra tables for my PhD thesis. They are mostly in Ukrainian, and the prompts stay in the language they were sent in.
 
 - [Інструкції та анкети для великих мовних моделей](prompts/README.md)
-- [Програмні модулі технології](tables/g1_program_modules.md)
-- [Бутстреп-інтервали до таблиць розділу 4](tables/g2_g4_bootstrap_intervals.md)
+- [Програмні модулі технології](tables/program_modules.md)
+- [Бутстреп-інтервали до таблиць розділу 4](tables/bootstrap_intervals.md)
 
 Програми розміщено в репозиторії [cadm-technology](https://github.com/i-svoboda/cadm-technology).
 
