@@ -6,7 +6,7 @@ These are the prompts, questionnaires and extra tables for my PhD thesis. They a
 
 - [Інструкції та анкети для великих мовних моделей](prompts/README.md)
 - [Програмні модулі технології](tables/program_modules.md)
-- [Бутстреп-інтервали до таблиць розділу 4](tables/bootstrap_intervals.md)
+- [Бутстреп-інтервали, ефективна кількість анкет і коригування в бутстрепі](tables/bootstrap_intervals.md)
 
 Програми розміщено в репозиторії [cadm-technology](https://github.com/i-svoboda/cadm-technology).
 
