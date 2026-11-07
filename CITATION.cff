@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Якщо ви використовуєте ці матеріали, цитуйте їх так."
+type: dataset
+title: "Матеріали до дисертації «Методи і технології прийняття рішень в сфері кібербезпеки на основі генеративного штучного інтелекту»"
+version: 1.0.0
+date-released: 2026-11-07
+license: CC-BY-4.0
+repository-code: "https://github.com/i-svoboda/dissertation-supplement"
+authors:
+  - family-names: Svoboda
+    given-names: Igor
+    orcid: "https://orcid.org/0009-0001-1709-2904"
+    affiliation: "Igor Sikorsky Kyiv Polytechnic Institute"
+keywords:
+  - cybersecurity
+  - decision support
+  - large language models
+  - analytic hierarchy process
+  - analytic network process
